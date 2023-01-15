@@ -9,8 +9,13 @@ Projeto feito com as Aulas da Rockseat <br/>
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
+---
 
-<br>
+<p align="center">
+<img src="https://github.com/thiagosaidm/Devlinks---LinkTree/blob/master/preview.gif" alt="nome do gif">
+</p>
+
+---
 
 
 
@@ -27,4 +32,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+#### Deploy
+[https://devsaid-linktree.netlify.app/](https://devsaid-linktree.netlify.app/)
+
